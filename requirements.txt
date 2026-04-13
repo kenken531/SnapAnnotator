@@ -1,0 +1,4 @@
+ollama
+opencv-python
+pillow
+numpy
